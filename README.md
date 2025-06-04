@@ -2,7 +2,7 @@
 
 This project is a C-based simulator for a subset of the MIPS (Microprocessor without Interlocked Pipeline Stages) instruction set architecture. Developed as part of the *Computer Systems Architecture* course, it aims to provide a practical understanding of how MIPS instructions are executed at a low level.
 
-### 🎥 <a href="https://www.youtube.com/watch?v=rXakvhSg9VA"> Presentation video </a>
+### 🎥 <a href="https://www.youtube.com/watch?v=rXakvhSg9VA"> Presentation video (portuguese only) </a>
 
 ---
 
