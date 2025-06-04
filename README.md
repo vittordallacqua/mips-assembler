@@ -103,6 +103,4 @@ Study how branching and jumping affect the flow of program execution.
 
 ## 📎 License
 
-This project is intended for educational purposes and does not have a specified license.
-
-
+This project is licensed under the MIT License.
