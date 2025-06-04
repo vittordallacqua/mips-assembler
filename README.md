@@ -1,4 +1,4 @@
-# 🖥️ MIPS.c – MIPS Instruction Simulator in C
+# 🖥️ MIPS Instruction Simulator in C
 
 This project is a C-based simulator for a subset of the MIPS (Microprocessor without Interlocked Pipeline Stages) instruction set architecture. Developed as part of the *Computer Systems Architecture* course, it aims to provide a practical understanding of how MIPS instructions are executed at a low level.
 
