@@ -4,8 +4,6 @@ This project is a C-based simulator for a subset of the MIPS (Microprocessor wit
 
 ### 🎥 <a href="https://www.youtube.com/watch?v=rXakvhSg9VA"> Presentation video (portuguese only) </a>
 
----
-
 ## 📚 Project Overview
 
 **Purpose:**  
@@ -16,13 +14,8 @@ To simulate the execution of MIPS assembly instructions, facilitating the study 
 - **Paradigm:** Procedural Programming
 - **Platform:** Cross-platform (Linux, macOS, Windows)
 
----
-
-
 - **`MIPS.c`**: Contains the main source code implementing the MIPS instruction simulator.
 - **`README.md`**: Provides documentation and usage instructions for the project.
-
----
 
 ## 🧠 Supported MIPS Instructions
 
@@ -43,8 +36,6 @@ The simulator supports a subset of MIPS instructions, including:
 
 *Note: The actual supported instructions may vary. Please refer to the source code for the complete list.*
 
----
-
 ## ⚙️ How It Works
 
 1. **Instruction Parsing:**  
@@ -58,8 +49,6 @@ The simulator supports a subset of MIPS instructions, including:
 
 4. **Output:**  
    After execution, the simulator may display the updated state of the registers and memory, depending on the implementation.
-
----
 
 ## 🧪 How to Compile and Run
 
@@ -86,8 +75,6 @@ gcc -o mips_simulator MIPS.c
 ```Note: The simulator may require an input file containing MIPS instructions or accept input via standard input.``` <br>
 ```Refer to the source code for specific usage details.```
 
----
-
 ## 📌 Educational Objectives
 
 - Understanding Instruction Execution:
@@ -98,8 +85,6 @@ Gain insights into how data is moved and manipulated within the CPU and memory.
 
 - Control Flow:
 Study how branching and jumping affect the flow of program execution.
-
----
 
 ## 📎 License
 
