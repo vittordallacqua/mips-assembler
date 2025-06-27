@@ -13,3 +13,5 @@ How to run (using MinGW):
 The simulator may require an input file containing MIPS instructions 
 or accept input via standard input. Refer to the source code for specific 
 usage details.
+
+This project is licensed under the MIT License.
