@@ -1,5 +1,4 @@
-MIPS instruction simulator in C
-===============================
+### MIPS instruction simulator in C
 
 This project is a C-based simulator for a subset of the MIPS 
 instruction set architecture. It aims to provide a practical 
