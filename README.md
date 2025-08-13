@@ -6,10 +6,11 @@ understanding of how MIPS instructions are executed at a low
 level.
 
 How to run (using MinGW): 
-    ```bash
-    > gcc MIPS.c -o MIPS.exe
-    > MIPS.exe 
-    ```
+
+```bash
+> gcc MIPS.c -o MIPS.exe
+> MIPS.exe 
+```
 
 The simulator may require an input file containing MIPS 
 instructions or accept input via standard input. Refer to 
